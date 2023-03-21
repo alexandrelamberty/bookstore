@@ -1,0 +1,6 @@
+[submodule "bookstore-api"]
+	path = bookstore-api
+	url = https://github.com/alexandrelamberty/bookstore-api
+[submodule "bookstore-web-app"]
+	path = bookstore-web-app
+	url = https://github.com/alexandrelamberty/bookstore-web-app
